@@ -16,9 +16,9 @@ This project analyzes sales data to identify revenue trends, top-performing prod
 - Sales by category and Sub category  
 
 ## 📂 Files Included
+- Excel raw data
 - Excel dashboard file  
-- Dataset  
-- Dashboard screenshot  
+- Pivot tables    
 
 ## 🎯 Outcome
 Identified high-performing products and regions to support business decisions.
